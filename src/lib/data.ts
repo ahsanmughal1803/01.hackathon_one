@@ -44,7 +44,7 @@ export const experiencesData = [
   },
   {
     title: "",
-    location: "e",
+    location: "",
     description:
       "",
     icon: React.createElement(CgWorkAlt),
